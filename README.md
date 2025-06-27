@@ -3,7 +3,9 @@
 A simple and interactive web application that helps users track their income and expenses, calculate total balance, and store their transactions using **localStorage**.
 
 ## 🔗 Live Link
-[Click here to view the live project](https://your-live-link.com)
+[Click here to view the live project](
+https://anit81.github.io/Expense-Tracker/
+)
 
 ## ✨ Features
 
